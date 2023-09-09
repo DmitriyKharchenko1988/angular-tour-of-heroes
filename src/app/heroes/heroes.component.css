@@ -8,7 +8,7 @@
 input {
   display: block;
   width: 100%;
-  padding: .5rem;
+  padding: 0.5rem;
   margin: 1rem 0;
   box-sizing: border-box;
 }
@@ -19,15 +19,15 @@ input {
 }
 
 .heroes li:hover {
-  left: .1em;
+  left: 0.1em;
 }
 
 .heroes a {
   color: #333;
   text-decoration: none;
   background-color: #EEE;
-  margin: .5em;
-  padding: .3em 0;
+  margin: 0.5em;
+  padding: 0.3em 0;
   height: 1.6em;
   border-radius: 4px;
   display: block;
@@ -57,12 +57,12 @@ input {
   height: 1.8em;
   min-width: 16px;
   text-align: right;
-  margin-right: .8em;
+  margin-right: 0.8em;
   border-radius: 4px 0 0 4px;
 }
 
 .add-button {
-  padding: .5rem 1.5rem;
+  padding: 0.5rem 1.5rem;
   font-size: 1rem;
   margin-bottom: 2rem;
 }
@@ -87,3 +87,5 @@ button.delete:hover {
   background-color: #525252;
   color: white;
 }
+
+/*# sourceMappingURL=heroes.component.css.map */
